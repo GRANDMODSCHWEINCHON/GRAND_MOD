@@ -1,0 +1,18 @@
+#Image img{width: 58%;
+    margin-left: 22%;}
+
+#logo{ color: darkblue;
+text-align:center;
+    font-size: 50px;
+        margin: 60px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+#main{ font-size: 20px;
+    font-weight: bold;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align:center;}
+
+h5{display: inline-block;
+    background-color: orange;
+        padding: 8px;
+            color: white;}

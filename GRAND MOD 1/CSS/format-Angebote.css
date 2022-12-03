@@ -1,0 +1,24 @@
+#logo-name{font-size:  50px;
+    font-weight: bold;
+        margin: 16px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                text-align: center;
+                    color: orange;}
+
+.IMAGES img{ width: 30%;
+        margin-top: 10%;
+            margin-bottom: 16px;
+                margin-left: 40px;}
+
+#main{text-align: center;
+        color: darkblue;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-weight: bold;}
+
+#Navigation a{ color: orange;
+        margin: 205px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-weight: bold;}
+            
+#Navigation a:hover{color: darkblue;}
+
